@@ -18,7 +18,7 @@
             border-radius: 10px;
         }
         .nav-link:hover {
-            background-color: #e0d5c;
+            background-color: #e0d5ce;
         }
         .content-card {
             margin-top: 20px;
